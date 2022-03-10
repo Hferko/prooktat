@@ -1,0 +1,2 @@
+# prooktat
+prooktatas gyakorlat
